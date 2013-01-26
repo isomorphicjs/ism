@@ -1,0 +1,13 @@
+{
+  "name": "ism",
+  "repo": "isomorphic/ism",
+  "description": "Isomorphic templates",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
