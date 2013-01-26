@@ -7,5 +7,5 @@ exports.filter = function() {
 };
 
 exports.__isomorphic = function(path, options, fn) {
-  done(null, path);
+  fn(null, require("../../"+path));
 }
